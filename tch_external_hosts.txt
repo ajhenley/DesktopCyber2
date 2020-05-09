@@ -1,0 +1,11 @@
+admin.classroom.com/ 217.67.163.186
+teacherspayteachers.com/ 10.45.25.182
+curriculum.com/ 203.118.85.50
+indeed.com/ 65.205.241.169
+whydidibecomeateacher.com/ 128.218.247.89
+code.org/ 58.58.62.112
+khanacademy.com/ 165.139.119.21
+readwritethink.org/ 61.47.155.176
+ck-12.org/ 78.137.177.249
+ted.com/ 113.19.31.78
+edshelf.com/ 55.127.41.140
